@@ -17,6 +17,3 @@ A machine learning–powered application that translates sign language into text
 - *Machine Learning*: Google Teachable Machine, TensorFlow/Keras  
 - *Tools*: Image Processing, TTS Engine (pyttsx3 / gTTS)  
 
----
-
-## 📂 Project Structure
